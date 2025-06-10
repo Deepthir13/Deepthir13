@@ -17,6 +17,7 @@
 </p>
 
 ---
+---
 
 ### 📌 About Me
 
@@ -33,7 +34,7 @@
 > Data Analyst • Business Intelligence • Data Engineering roles where I can turn insights into impact.
 
 ---
-
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=30&height=100&section=header" />
 </p>
@@ -152,12 +153,11 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
 </table>
 
 ---
-
+---
 ## 📜 Certifications
 
 > 🧾 **Certifications Completed**
 
----
 
 ### 🎓 `Google Data Analytics – Coursera`  
 **Credential**: [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/your-google-cert-link)  
@@ -169,3 +169,22 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
 ## 📄 Resume & Portfolio
 
 🔗 **Resume:** [View My Resume (PDF)](https://your-link-to-resume.com)   🌐 **Portfolio Website:** [Deepthi-Portfolio.com](https://your-portfolio-link.com)
+
+---
+---
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yourname@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://kaithi-data.com">
+    <img src="https://img.shields.io/badge/Portfolio-4E9F3D?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
