@@ -11,7 +11,7 @@
 </p>
 
 ---
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions...;One+dashboard+at+a+time.">
 </p>
@@ -186,6 +186,24 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
 
   <!-- Productivity Timeline -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepthir13&theme=vue&utcOffset=5" />
+</p>
+
+---
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yourname@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://kaithi-data.com">
+    <img src="https://img.shields.io/badge/Portfolio-4E9F3D?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 
