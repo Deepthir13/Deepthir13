@@ -172,19 +172,22 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
 
 ---
 ---
+
+## 📈 GitHub Activity
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yourname@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://kaithi-data.com">
-    <img src="https://img.shields.io/badge/Portfolio-4E9F3D?style=for-the-badge&logo=internetexplorer&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepthir13&theme=vue" />
+  
+  <br>
+
+  <!-- Clean Stats Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepthir13&theme=vue" />
+
+  <!-- Productivity Timeline -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepthir13&theme=vue&utcOffset=5" />
 </p>
+
+
 
 
