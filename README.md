@@ -106,3 +106,47 @@
 <img src="https://img.shields.io/badge/Clustering-009688?style=flat-square" />
 
 </div>
+
+---
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      
+### 🎬 IMDb Data Pipeline  
+Built an end-to-end pipeline using ADF, Snowflake, and Tableau to visualize movie ratings.  
+🛠️ SQL, ADF, Snowflake, Tableau  
+🔗 [GitHub Repo](https://github.com/yourname/imdb-data-pipeline)
+
+</td>
+    <td width="50%">
+      
+### 🏙️ City Food Inspections  
+Engineered a full-stack BI pipeline across two city datasets (25+ columns), culminating in real-time Power BI dashboards using advanced DAX measures.  
+🛠️ Power BI, Snowflake, Databricks  
+🔗 [View Dashboard](https://yourdashboardlink.com)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%">
+      
+### 🗺️ NYPD Crime Trends  
+Automated precinct-level crime tracking using dynamic tables and late-arriving dimension logic in Snowflake.  
+🛠️ Snowflake, SQL, ADF  
+🔗 [GitHub Repo](https://github.com/yourname/nypd-crime-analysis)
+
+</td>
+    <td width="50%">
+      
+### 🎓 Alumni Management System  
+Java-based CRUD app for alumni event registration with normalized MySQL backend.  
+🛠️ Java, JDBC, MySQL, NetBeans  
+🔗 [GitHub Repo](https://github.com/yourname/alumni-system)
+
+</td>
+  </tr>
+</table>
