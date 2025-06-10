@@ -152,9 +152,6 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
 </table>
 
 ---
----
-
----
 
 ## 📜 Certifications
 
@@ -167,4 +164,8 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
 *An 8-course program focused on SQL, data cleaning, visualization (Tableau, R), and problem-solving techniques.*
 
 ---
+---
 
+## 📄 Resume & Portfolio
+
+🔗 **Resume:** [View My Resume (PDF)](https://your-link-to-resume.com)   🌐 **Portfolio Website:** [Deepthi-Portfolio.com](https://your-portfolio-link.com)
