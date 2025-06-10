@@ -150,3 +150,21 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
 </td>
   </tr>
 </table>
+
+---
+---
+
+---
+
+## 📜 Certifications
+
+> 🧾 **Certifications Completed**
+
+---
+
+### 🎓 `Google Data Analytics – Coursera`  
+**Credential**: [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/your-google-cert-link)  
+*An 8-course program focused on SQL, data cleaning, visualization (Tableau, R), and problem-solving techniques.*
+
+---
+
