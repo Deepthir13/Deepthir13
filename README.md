@@ -188,7 +188,10 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepthir13&theme=vue&utcOffset=5" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepthir13&label=Visitors&color=4E9F3D&style=flat-square" alt="Profile Visitors" />
+</p>
+
 ---
 
 <p align="center">
@@ -206,6 +209,6 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
   </a>
 </p>
 
-
+---
 
 
