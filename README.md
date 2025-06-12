@@ -120,7 +120,7 @@
 ### 🎬 IMDb Data Pipeline  
 Built an end-to-end pipeline using ADF, Snowflake, and Tableau to visualize movie ratings.  
 🛠️ SQL, ADF, Snowflake, Tableau  
-🔗 [GitHub Repo](https://github.com/yourname/imdb-data-pipeline)
+🔗 [GitHub Repo](https://github.com/Deepthir13/DAMG7370_Dadabi_MidTerm.git)
 
 </td>
     <td width="50%">
@@ -128,7 +128,7 @@ Built an end-to-end pipeline using ADF, Snowflake, and Tableau to visualize movi
 ### 🏙️ City Food Inspections  
 Engineered a full-stack BI pipeline across two city datasets (25+ columns), culminating in real-time Power BI dashboards using advanced DAX measures.  
 🛠️ Power BI, Snowflake, Databricks  
-🔗 [View Dashboard](https://yourdashboardlink.com)
+🔗 [View Dashboard](https://github.com/Deepthir13/FINALPROJ_DADABI_Grp7.git)
 
 </td>
   </tr>
@@ -168,7 +168,7 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
 
 ## 📄 Resume & Portfolio
 
-🔗 **Resume:** [View My Resume (PDF)](https://your-link-to-resume.com)   🌐 **Portfolio Website:** [Deepthi-Portfolio.com](https://your-portfolio-link.com)
+🔗 **Resume:** [View My Resume (PDF)](https://drive.google.com/file/d/1hfbP9ulOXzuozUm-VATcTuPRS1F9MZca/view?usp=share_link)   🌐 **Portfolio Website:** [Deepthi-Portfolio.com](https://your-portfolio-link.com)
 
 ---
 ---
