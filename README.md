@@ -168,7 +168,7 @@ Java-based CRUD app for alumni event registration with normalized MySQL backend.
 
 ## 📄 Resume & Portfolio
 
-🔗 **Resume:** [View My Resume (PDF)](https://drive.google.com/file/d/1hfbP9ulOXzuozUm-VATcTuPRS1F9MZca/view?usp=share_link)   🌐 **Portfolio Website:** [Deepthi-Portfolio.com](https://your-portfolio-link.com)
+🔗 **Resume:** [View My Resume (PDF)](https://drive.google.com/file/d/1hfbP9ulOXzuozUm-VATcTuPRS1F9MZca/view?usp=share_link)   🌐 **Portfolio Website:** [Deepthi-Portfolio.com](https://deepthi-ramesh-portfolio.framer.website)
 
 ---
 ---
