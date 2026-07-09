@@ -108,70 +108,7 @@
 
 </div>
 
----
----
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      
-### 🎬 IMDb Data Pipeline  
-Built an end-to-end pipeline using ADF, Snowflake, and Tableau to visualize movie ratings.  
-🛠️ SQL, ADF, Snowflake, Tableau  
-🔗 [GitHub Repo](https://github.com/Deepthir13/DAMG7370_Dadabi_MidTerm.git)
-
-</td>
-    <td width="50%">
-      
-### 🏙️ City Food Inspections  
-Engineered a full-stack BI pipeline across two city datasets (25+ columns), culminating in real-time Power BI dashboards using advanced DAX measures.  
-🛠️ Power BI, Snowflake, Databricks  
-🔗 [View Dashboard](https://github.com/Deepthir13/FINALPROJ_DADABI_Grp7.git)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%">
-      
-### 🗺️ NYPD Crime Trends  
-Automated precinct-level crime tracking using dynamic tables and late-arriving dimension logic in Snowflake.  
-🛠️ Snowflake, SQL, ADF  
-🔗 [GitHub Repo](https://github.com/yourname/nypd-crime-analysis)
-
-</td>
-    <td width="50%">
-      
-### 🎓 Alumni Management System  
-Java-based CRUD app for alumni event registration with normalized MySQL backend.  
-🛠️ Java, JDBC, MySQL, NetBeans  
-🔗 [GitHub Repo](https://github.com/yourname/alumni-system)
-
-</td>
-  </tr>
-</table>
-
----
----
-## 📜 Certifications
-
-> 🧾 **Certifications Completed**
-
-
-### 🎓 `Google Data Analytics – Coursera`  
-**Credential**: [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/your-google-cert-link)  
-*An 8-course program focused on SQL, data cleaning, visualization (Tableau, R), and problem-solving techniques.*
-
----
----
-
-## 📄 Resume & Portfolio
-
-🔗 **Resume:** [View My Resume (PDF)](https://drive.google.com/file/d/1hfbP9ulOXzuozUm-VATcTuPRS1F9MZca/view?usp=share_link)   🌐 **Portfolio Website:** [Deepthi-Portfolio.com](https://deepthi-ramesh-portfolio.framer.website)
-
----
----
 
 ## 📈 GitHub Activity
 
